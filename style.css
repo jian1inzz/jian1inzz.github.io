@@ -1,0 +1,133 @@
+@charset "utf-8";
+.title{
+	display:inline-block;
+	font-size: 180%;
+}
+.bdcard{
+	float: right;
+	padding: 20px 10px;
+}
+.box{
+	width: 400px;
+	height: 50px;
+	background: #ecd6c7;
+	margin: 0 auto;/*區塊置中*/
+	text-align:center;
+}
+.wrap{
+	margin:0 auto;
+}
+/*視窗底色設定*/	
+ body{background-color:lightyellow;}
+/*連結顏色設定*/
+a{ color: rgb(243, 242, 230);
+	background-color:yellow;
+	font-size: large;
+	text-shadow: -1px -1px 0 #7a7468,
+	  1px -1px 0 #7a7468,
+	  -1px 1px 0 #7a7468,
+	  1px 1px 0 #7a7468;
+	 font-size: 150%; ;}
+a:hover{font-size: 150%; 
+	    color: #837fc0;}
+a:visited{font-size: 150%; 
+	      color: rgb(5, 5, 5);}
+	
+			
+	/*頁面標題設定*/
+	h1{
+		color: rgb(42, 41, 43);
+	   text-align:center;
+       font-size: 350%;
+	}		
+			
+	/*次標題設定*/
+			h2{
+				background-color:yellow;
+				font-size: 200%;
+				color: rgb(138, 94, 6);
+				border :yellowgreen 2px dotted ;
+				border-left: khaki 10px solid;
+				padding: 10px 20px;
+				margin-bottom:0 ;
+			}
+			
+			
+	/*內容標題設定*/			
+	p{font-size:18px ;}	
+	ul{ font-weight:bold;
+		font-size:18px ;}		
+
+
+
+
+		  .picture{
+			width: 400px;
+			float:left; /* 圖片在左邊 */
+			padding: 20px;
+		  }
+		  .picture img{
+			display: block;
+			width: 200%;
+		  }
+		  .bdtext{
+			text-align:center;
+			float: right;  /* 文字在右邊 */
+			width: 1000px;
+			padding: 215px 28px 0px 0px;
+		  }
+		  .picture2{
+			width: 400px;
+			float:right; 
+			padding: 0px 480px 20px 20px;
+		  }
+		  .picture2 img{
+			display: block;
+			width: 200%;
+		  }
+		  .bdtext2{
+            text-align:right;
+			float: left; 
+			width: 800px;
+			padding: 200px 28px 0px 0px;
+		  }
+		  h3{
+			color: white;
+			background-color:yellow;
+			font-size: large;
+			text-shadow: -2px -2px 0 #7a7468,
+              2px -2px 0 #7a7468,
+              -2px 2px 0 #7a7468,
+              2px 2px 0 #7a7468;
+		  }
+	/*照片及特徵區塊設定*/		
+			
+			
+	/*引言區塊設定*/		
+			
+			
+	/*「更多(回景點)介紹」連結設定*/		
+			
+			
+	/*區塊邊界設定*/		
+			
+			
+	/*表格設定*/		
+			
+			
+	/*輸入表單設定*/		
+			
+			
+	/*按鈕設定*/		
+			
+			
+	/*按鈕基本樣式*/		
+			
+			
+	/*滑鼠移到按鈕時*/		
+			
+			
+	/*按下按鈕的瞬間*/		
+			
+			
+	/*依按鈕功能區分顏色*/	
